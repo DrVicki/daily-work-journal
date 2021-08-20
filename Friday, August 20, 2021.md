@@ -39,6 +39,7 @@
 >* Rubric for Capstone >
 >* Replacement for Python >
 
+[Lecture Slides Repo](https://github.com/DigitalCrafts/dc-houston-slides)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE2NTI0MV19
+eyJoaXN0b3J5IjpbLTkxNTY5NTE3OSwtMTExMTY1MjQxXX0=
 -->
